@@ -151,6 +151,10 @@ http://www.stockhideout.com/members
 
 http://www.stockhideout.com/
 
+http://www.007stockchat.com/stockchat/
+
+http://www.007stockchat.com/
+
 http://www.thehotpennystocks.com/
 
 https://stocktwits.com/#people-and-stocks:118455
@@ -188,10 +192,6 @@ https://marketfy.com/store/#login-modal
 https://www.chartmill.com/index.php
 
 https://www.tradingview.com/
-
-http://www.007stockchat.com/stockchat/
-
-http://www.007stockchat.com/
 
 ## Python ##
 
