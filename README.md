@@ -85,11 +85,113 @@ https://blog.turbinelabs.io/getting-started-with-envoy-on-your-laptop-1b1a7073fd
 
 https://dev.to/datawireio/tutorial-getting-started-with-ambassador---a-kubernetes-native-api-gateway-for-microservices-1849
 
-
-
 ## Data Analysis ##
 
 https://github.com/WillKoehrsen/Data-Analysis/tree/master/stocker
+
+https://github.com/datagovsg-blog/circle-line-analytics
+
+https://data.gov.sg/
+
+https://blog.data.gov.sg/how-we-caught-the-circle-line-rogue-train-with-data-79405c86ab6a
+
+https://blog.data.gov.sg/is-dirty-delicious-f176bbb6e15e
+
+https://opensource.com/article/18/3/getting-started-data-science
+
+https://www.edx.org/course/foundations-data-science-computational-uc-berkeleyx-data8-1x
+
+https://github.com/pandas-profiling/pandas-profiling
+
+https://radimrehurek.com/gensim/models/phrases.html
+
+https://www.linkedin.com/learning/python-for-data-science-essential-training
+
+https://developer.ibm.com/patterns/perform-a-machine-learning-exercise/
+
+https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/
+
+https://www.linkedin.com/learning/machine-learning-ai-foundations-recommendations/welcome
+
+## Trading ##
+
+https://www.quantopian.com/posts/quantopian-tutorial-series
+
+https://www.mql5.com/en/code/mt4
+
+https://github.com/lukstei/trading-backtest
+
+https://www.quantconnect.com/terminal/
+
+https://www.quora.com/How-can-a-beginner-with-little-mathematical-no-prior-trading-experience-break-into-quantitative-analysis-and-algorithmic-trading-Is-it-possible-to-teach-yourself-How-Which-books-should-one-read
+
+https://www.optionsincomeengine.com/training/?p=1
+
+https://www.stocktrader.com/free-education/
+
+https://marketmastery.com/
+
+https://www.quora.com/What-is-the-best-way-to-backtest-a-stock-trading-strategy
+
+http://www.zipline.io/beginner-tutorial.html#my-first-algorithm
+
+http://www.trading24.cz/weby-kde-najdete-navody-programovat-aos-mql4/
+
+https://www.fxstreet.cz/serial-mql-a-backtestovani-strategii.html
+
+https://www.financnik.cz/wiki/metatrader
+
+https://www.fxstreet.cz/mql4-tester-strategii-cast-8.html
+
+http://www.trading-aos.cz/articles/ninjascript-programovani-ve-wizardu
+
+## Trading Chats ##
+
+http://www.stockhideout.com/members
+
+http://www.stockhideout.com/
+
+http://www.thehotpennystocks.com/
+
+https://stocktwits.com/#people-and-stocks:118455
+
+https://stocktwits.com/Newbie2012
+
+https://www.stockfetcher.com/examples
+
+http://trading-software-collection.com/
+
+http://www.stockpicksnyc.com/learn-how-to-trade-stocks-stock-school/how-to-read-stock-charts/
+
+https://finviz.com/screener.ashx?v=351&f=fa_epsyoy_high,sh_avgvol_o100,sh_curvol_o200,sh_price_u30,ta_perf_dup,ta_sma20_pb,ta_sma200_pa,ta_sma50_pca&ft=4&o=forwardpe
+
+https://www.barchart.com/stocks/performance/percent-change/advances#/timeFrame=3m
+
+http://www.pennystocklist.com/penny-stocks-chat.html
+
+https://ca.finance.yahoo.com/gainers?e=us
+
+http://caps.fool.com/TickerRankings.aspx?filter=7
+
+http://my.cbox.ws/sharptraders
+
+http://www.stockpicksnyc.com/
+
+http://www.stockpicksnyc.com/learn-how-to-trade-stocks-stock-school/
+
+http://bigcharts.marketwatch.com/quickchart/quickchart.asp?symb=fnma&insttype=Stock&freq=1&show=
+
+https://www.howthemarketworks.com/login
+
+https://marketfy.com/store/#login-modal
+
+https://www.chartmill.com/index.php
+
+https://www.tradingview.com/
+
+http://www.007stockchat.com/stockchat/
+
+http://www.007stockchat.com/
 
 ## Python ##
 
@@ -134,3 +236,9 @@ https://www.youtube.com/watch?v=afy4PkSJuzk
 https://www.youtube.com/watch?v=ISO8V1cYmfY
 
 https://www.youtube.com/watch?v=W7LOJHPiQXY
+
+https://www.youtube.com/watch?v=g84rMkrbQAA
+
+https://www.youtube.com/watch?v=Tpvs70YktgM
+
+https://www.youtube.com/watch?v=ji0bEjhUReg
