@@ -512,6 +512,8 @@ https://aistudio.google.com/generate-speech
 
 https://notebooklm.google.com/?pli=1
 
+https://colab.research.google.com/
+
 https://deepmind.google/models/gemini/#introduction
 
 https://gemini.google.com/
