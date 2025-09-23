@@ -4,6 +4,8 @@
 
 https://www.tradingview.com/
 
+https://www.tradingview.com/screener/
+
 https://finviz.com/
 
 https://finviz.com/screener.ashx?v=340&s=ta_topgainers
