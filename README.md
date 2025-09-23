@@ -60,6 +60,8 @@ https://profit.ly/
 
 http://profit.ly/user/pkralik/dashboard
 
+https://marketfy.com/store/#login-modal
+
 http://marketfy.com/product/stock-trader-chat-room/chat/667/
 
 http://forums.trade-ideas.com/
@@ -68,57 +70,43 @@ https://www.trade-ideas.com/education/free-trading-room/
 
 http://www.thehotpennystocks.com/
 
-http://www.stocktradingtogo.com/free-education/
-
 http://stocktwits.com/
 
 https://stocktwits.com/#people-and-stocks:118455
 
 https://stocktwits.com/Newbie2012
 
-http://www.jasonbondpicks.com/
+https://www.chartmill.com/
 
 https://ragingbull.com/
 
 https://app.ragingbull.com/member
 
+https://www.jasonbondpicks.com/articles/
+
 https://www.stockfetcher.com/examples
-
-http://trading-software-collection.com/
-
-http://www.stockpicksnyc.com/learn-how-to-trade-stocks-stock-school/how-to-read-stock-charts/
-
-http://www.pennystocklist.com/penny-stocks-chat.html
 
 http://thestockmarketwatch.com/markets/topstocks/
 
 http://my.cbox.ws/sharptraders
 
-http://www.stockpicksnyc.com/
-
-http://www.stockpicksnyc.com/learn-how-to-trade-stocks-stock-school/
-
 http://bigcharts.marketwatch.com/quickchart/quickchart.asp?symb=fnma&insttype=Stock&freq=1&show=
 
 https://www.howthemarketworks.com/
 
-https://marketfy.com/store/#login-modal
-
-https://www.chartmill.com/index.php
-
 http://www.stockhideout.com/
-
-http://www.stockhideout.com/chat/
-
-http://www.stockhideout.com/members
 
 http://www.007stockchat.com/
 
 http://www.007stockchat.com/stockchat/
 
-http://www.stockstobuy.org/
-
 http://blackberrystocks.com/hotstocks.html
+
+http://www.stockpicksnyc.com/
+
+http://www.stockpicksnyc.com/learn-how-to-trade-stocks-stock-school/
+
+http://trading-software-collection.com/
 
 https://www.mql5.com
 
