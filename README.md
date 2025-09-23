@@ -138,11 +138,7 @@ https://event.webinarjam.com/replay/171/09m13umwakgvs6z3qtm43730
 
 ## Steve Primo ##
 
-http://steveprimo.com/
-
-http://steveprimo.com/blog/
-
-http://steveprimo.com/education/
+https://protraderstrategies.com/
 
 https://protraderstrategies.com/products/stocks/stock-momentum-trader-strategy-course/
 
