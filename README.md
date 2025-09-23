@@ -194,6 +194,8 @@ https://github.com/quant-science/vectorbt_backtesting
 
 https://github.com/quant-science/zipline_backtesting
 
+https://colab.research.google.com/github/pyquantnews/PyQuantNewsletter/blob/main/115_PandasMarketDataAnalysis.ipynb
+
 https://www.linkedin.com/company/quant-science/posts/?feedView=all
 
 https://x.com/quantscience_
@@ -252,6 +254,8 @@ https://profitview.net/events/how-to-start-a-systematic-trading-fund
 
 https://profitview.net/events/getting-started-with-trading-bots
 
+https://pro.openbb.co/login
+
 https://github.com/profitviews/popular-gits/blob/main/Quantlib.md
 
 https://github.com/QuantConnect
@@ -262,7 +266,11 @@ https://github.com/cybergeekgyan/Quant-Developers-Resources
 
 https://github.com/OpenBB-finance/experimental-openbb-platform-agent/blob/main/getting_started.ipynb
 
+https://github.com/OpenBB-finance/openbb-agents/blob/main/getting_started.ipynb
+
 https://github.com/ranaroussi/quantstats
+
+https://github.com/lit26/finvizfinance
 
 ## Algo Trading ##
 
@@ -298,6 +306,8 @@ https://www.quantinsti.com/
 
 https://blog.quantinsti.com/
 
+https://www.quantinsti.com/#webinar
+
 https://blog.quantinsti.com/tag/webinars/
 
 https://blog.quantinsti.com/stock-market-data-analysis-python/
@@ -309,6 +319,8 @@ https://blog.quantinsti.com/making-career-algorithmic-trading/
 https://www.quantinsti.com/articles/algorithmic-trading-strategies/
 
 https://blog.quantinsti.com/free-resources-list-compilation-learn-algorithmic-trading/
+
+https://blog.quantinsti.com/free-resources-learn-machine-learning-trading/#courses
 
 https://blog.quantinsti.com/advanced-options-trading/
 
@@ -334,7 +346,13 @@ https://www.youtube.com/watch?v=K2XObTDM9GA&list=PLD7IrLyN7uvI3qkuGjd3-qWGyHUCab
 
 https://quantra.quantinsti.com/dashboard
 
+https://quantra.quantinsti.com/learning-track/guide-quantitative-trading-beginners
+
+https://quantra.quantinsti.com/course/python-trading-basic
+
 https://quantra.quantinsti.com/course/getting-market-data
+
+https://quantra.quantinsti.com/learning-track/guide-quantitative-trading-beginners
 
 https://quantra.quantinsti.com/startCourseDetails?cid=46&section_no=1&unit_no=1&course_type=paid&unit_type=Video
 
