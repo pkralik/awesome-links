@@ -60,18 +60,6 @@ https://profit.ly/
 
 http://profit.ly/user/pkralik/dashboard
 
-http://www.stockhideout.com/
-
-http://www.stockhideout.com/chat/
-
-http://www.stockhideout.com/members
-
-http://www.007stockchat.com/
-
-http://www.007stockchat.com/stockchat/
-
-http://www.stockstobuy.org/
-
 http://marketfy.com/product/stock-trader-chat-room/chat/667/
 
 http://forums.trade-ideas.com/
@@ -117,6 +105,18 @@ https://www.howthemarketworks.com/
 https://marketfy.com/store/#login-modal
 
 https://www.chartmill.com/index.php
+
+http://www.stockhideout.com/
+
+http://www.stockhideout.com/chat/
+
+http://www.stockhideout.com/members
+
+http://www.007stockchat.com/
+
+http://www.007stockchat.com/stockchat/
+
+http://www.stockstobuy.org/
 
 http://blackberrystocks.com/hotstocks.html
 
