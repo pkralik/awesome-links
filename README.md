@@ -160,6 +160,8 @@ https://www.youtube.com/watch?v=aM6mq3JZZEQ
 
 https://www.youtube.com/watch?v=iDHZ9TcAktA
 
+## Indicators ##
+
 https://docs.google.com/document/d/15AGCufJZ8CIUvwFJ9W-IKns88gkWOKBCvByMEvm5MLo/edit?tab=t.0#heading=h.hxxxw8bfvb8j
 
 ## Quant ##
@@ -272,6 +274,16 @@ https://github.com/ranaroussi/quantstats
 
 https://github.com/lit26/finvizfinance
 
+https://pypi.org/project/openbb/
+
+https://docs.openbb.com/
+
+https://github.com/OpenBB-finance/OpenBB
+
+https://www.linkedin.com/posts/quant-science_finance-in-python-is-insane-check-out-activity-7240357276555882497-v-k7/?utm_source=share&utm_medium=member_desktop
+
+https://github.com/pmorissette/ffn
+
 ## Algo Trading ##
 
 https://trhy.cz/
@@ -308,15 +320,13 @@ https://blog.quantinsti.com/
 
 https://www.quantinsti.com/#webinar
 
-https://blog.quantinsti.com/tag/webinars/
+https://www.quantinsti.com/articles/backtesting-trading/
+
+https://www.quantinsti.com/articles/algorithmic-trading-strategies/
 
 https://blog.quantinsti.com/stock-market-data-analysis-python/
 
-https://www.quantinsti.com/articles/backtesting-trading/
-
 https://blog.quantinsti.com/making-career-algorithmic-trading/
-
-https://www.quantinsti.com/articles/algorithmic-trading-strategies/
 
 https://blog.quantinsti.com/free-resources-list-compilation-learn-algorithmic-trading/
 
@@ -334,9 +344,11 @@ https://blog.quantinsti.com/garch-gjr-garch-volatility-forecasting-python/
 
 https://blog.quantinsti.com/algorithmic-trading-india/
 
+https://blog.quantinsti.com/tag/webinars/
+
 https://www.youtube.com/@quantinsti
 
-https://www.youtube.com/watch?v=7EXNr5GlxTs&sttick=0
+https://www.youtube.com/watch?v=7EXNr5GlxTs
 
 https://www.youtube.com/watch?v=Rl8JDto2JYo
 
@@ -350,13 +362,17 @@ https://quantra.quantinsti.com/learning-track/guide-quantitative-trading-beginne
 
 https://quantra.quantinsti.com/course/python-trading-basic
 
+https://quantra.quantinsti.com/course/introduction-to-machine-learning-for-trading
+
 https://quantra.quantinsti.com/course/getting-market-data
 
-https://quantra.quantinsti.com/learning-track/guide-quantitative-trading-beginners
+https://quantra.quantinsti.com/course/Automated-Trading-IBridgePY-Interactive-Brokers-Platform
 
 https://quantra.quantinsti.com/startCourseDetails?cid=46&section_no=1&unit_no=1&course_type=paid&unit_type=Video
 
 https://quantra.quantinsti.com/startCourseDetails?cid=66&section_no=14&unit_no=1&course_type=paid&unit_type=Document
+
+https://quantra.quantinsti.com/live-trading
 
 https://blueshift.quantinsti.com/docs/
 
@@ -366,6 +382,8 @@ https://blueshift.quantinsti.com/
 
 https://www.quantinsti.com/Python-Basics-Handbook.pdf
 
+https://blog.quantinsti.com/algorithmic-trading-chatgpt/
+
 https://d1rwhvwstyk9gu.cloudfront.net/2023/07/ChatGPT-for-Quants-Webinar---Vivek-Krishnamoorthy--QuantInsti.pdf
 
 ## Brokers ##
@@ -374,7 +392,11 @@ https://www.fio.cz/e-broker/
 
 https://www.xtb.com/cz
 
+https://co.xtb.com/#/education
+
 https://us.etrade.com
+
+https://www.interactivebrokers.ie/
 
 https://www-us.computershare.com/Investor/#Home
 
@@ -512,7 +534,11 @@ https://aistudio.google.com/generate-speech
 
 https://notebooklm.google.com/?pli=1
 
+https://colab.google/
+
 https://colab.research.google.com/
+
+https://www.kaggle.com/
 
 https://deepmind.google/models/gemini/#introduction
 
@@ -521,6 +547,14 @@ https://gemini.google.com/
 https://gemini.google.com/app
 
 https://chatgpt.com/
+
+https://claude.ai/new
+
+https://console.anthropic.com/dashboard
+
+https://github.com/anthropics/claude-quickstarts
+
+https://github.com/anthropics/claude-quickstarts/tree/main/financial-data-analyst
 
 https://www.perplexity.ai
 
@@ -532,9 +566,161 @@ https://www.perplexity.ai/hub/blog/introducing-perplexity-labs
 
 https://www.perplexity.ai/help-center/en/articles/11144811-perplexity-labs
 
+https://www.zive.cz/clanky/aivyhledavac-perplexity-pro-s-mnoha-placenymi-modely-muzete-mit-u-t-mobilu-zadarmonavod-jak-na-to/sc-3-a-232451/default.aspx
+
 https://www.deeplearning.ai/short-courses/serverless-agentic-workflows-with-amazon-bedrock/
 
 https://medium.com/google-cloud/decoding-google-ai-studio-your-in-depth-guide-to-mastering-generative-ai-settings-af9a15bec7a8
+
+https://medium.com/@sbpatil652002/how-to-build-a-face-swap-algorithm-in-python-eca88c6f78a3
+
+https://colab.research.google.com/github/seranus/faceswap-notebooks/blob/master/faceswap_trainer.ipynb
+
+https://github.com/mongodb-developer/GenAI-Showcase/tree/main/notebooks/agents
+
+https://colab.research.google.com/github/mongodb-developer/GenAI-Showcase/blob/main/notebooks/agents/zero_to_hero_with_genai_with_mongodb_openai.ipynb#scrollTo=uc_Em_q_pSyf
+
+https://github.com/mongodb-developer/genai-devday-notebooks
+
+https://colab.research.google.com/github/tensorflow/io/blob/master/docs/tutorials/mongodb.ipynb
+
+## Prompts ##
+
+https://drive.google.com/file/d/18pqKVi9XyVOQlhGmglnNz3Y4iTyHcn0d/view
+
+## Google ##
+
+https://cloudonair.withgoogle.com/
+
+https://cloudonair.withgoogle.com/#upcoming_events
+
+https://cloudonair.withgoogle.com/events/gws-prompting-gemini-duet-ai/watch?talk=t1-s1
+
+https://cloudonair.withgoogle.com/events/building-app-in-ai-era/watch?talk=t1-s1
+
+https://cloudonair.withgoogle.com/events/gen-ai-for-next-js-developers
+
+https://cloudonair.withgoogle.com/events/key-prompt-engineering-techniques-with-anthropics-claude-on-vertex-ai
+
+https://cloudonair.withgoogle.com/events/ai-agents-in-google-cloud-en/watch?talk=talk
+
+https://cloudonair.withgoogle.com/events/build-ai-agents-with-genkit/watch?talk=t1-s1
+
+https://cloudonair.withgoogle.com/events/gen-ai-observability-for-python-developers
+
+https://cloudonair.withgoogle.com/events/key-prompt-engineering-techniques-with-anthropics-claude-on-vertex-ai
+
+https://www.youtube.com/watch?v=PAm8Kj8uqVg
+
+https://cloudonair.withgoogle.com/events/leap-forward-gen-ai
+
+https://cloudonair.withgoogle.com/events/startup-school-ai-q1-2025
+
+https://cloudonair.withgoogle.com/events/startup-school-ai-q2
+
+https://cloudonair.withgoogle.com/events/startup-school-ai-q4
+
+https://firebase.google.com/codelabs/ai-genkit-rag#8
+
+https://github.com/FirebaseExtended/codelab-ai-genkit-rag
+
+https://codelabs.developers.google.com/
+
+https://codelabs.developers.google.com/codelabs/gen-ai-o11y-for-devs/gen-ai-o11y-python#5
+
+https://codelabs.developers.google.com/codelabs/how-to-deploy-gemini-powered-chat-app-cloud-run#0
+
+https://codelabs.developers.google.com/codelabs/how-to-cloud-run-gemini-function-calling#3
+
+https://codelabs.developers.google.com/codelabs/how-to-use-stable-diffusion-cloud-run-gpu#0
+
+https://cloud.google.com/run/docs/tutorials/gpu-gemma-with-ollama
+
+https://cloud.google.com/firestore/native/docs/langchain
+
+https://cloud.google.com/ai/gemini?hl=en
+
+https://cloud.google.com/vertex-ai/docs/tutorials/tabular-bq-prediction/create-notebook
+
+https://www.cloudskillsboost.google/
+
+https://www.cloudskillsboost.google/paths
+
+https://www.cloudskillsboost.google/paths/11
+
+https://www.cloudskillsboost.google/paths/12
+
+https://www.cloudskillsboost.google/paths/19
+
+https://www.cloudskillsboost.google/paths/20
+
+https://www.cloudskillsboost.google/paths/20/course_templates/99
+
+https://www.cloudskillsboost.google/paths/21
+
+https://www.cloudskillsboost.google/paths/27
+
+https://www.cloudskillsboost.google/paths/31
+
+https://www.cloudskillsboost.google/paths/76
+
+https://www.cloudskillsboost.google/paths/118
+
+https://www.cloudskillsboost.google/paths/118/course_templates/976
+
+https://www.cloudskillsboost.google/paths/125
+
+https://www.cloudskillsboost.google/paths/183
+
+https://www.cloudskillsboost.google/paths/236
+
+https://www.cloudskillsboost.google/paths/236/course_templates/881/labs/475235
+
+https://www.cloudskillsboost.google/paths/249
+
+https://www.cloudskillsboost.google/paths/280
+
+https://www.cloudskillsboost.google/paths/655
+
+https://www.cloudskillsboost.google/course_templates/882
+
+https://www.cloudskillsboost.google/paths/118/course_templates/976
+
+https://www.cloudskillsboost.google/paths/1284
+
+https://developers.google.com/learn/pathways
+
+https://github.com/google-gemini/cookbook
+
+https://github.com/rominirani/awesome-gemini-for-google-cloud/blob/main/README.md
+
+https://github.com/GoogleCloudPlatform/generative-ai
+
+https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini
+
+https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/function-calling/intro_function_calling.ipynb
+
+https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/tuning
+
+https://www.youtube.com/@googlecloudtech?sttick=0
+
+## SRE ##
+
+https://sre.google/books/
+
+https://google.github.io/building-secure-and-reliable-systems/raw/toc.html
+
+https://sre.google/workbook/preface/
+
+https://sre.google/workbook/table-of-contents/
+
+https://sre.google/sre-book/automation-at-google/
+
+https://sre.google/sre-book/table-of-contents/
+
+https://www.coursera.org/learn/site-reliability-engineering-slos
+
+https://info.microsoft.com/rs/157-GQE-382/images/EN-CNTNT-eBook-DesigningDistributedSystems.pdf?utm_source=substack&utm_medium=email
 
 ## Various ##
 
