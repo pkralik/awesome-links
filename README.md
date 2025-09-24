@@ -122,13 +122,17 @@ https://www.timothysykes.com/blog/patterns-in-action/
 
 https://www.timothysykes.com/blog/prepare-for-next-trade-setup/
 
-https://www.timothysykes.com/blog/alerts-on-fire/
-
 https://www.timothysykes.com/blog/perfect-trade-schedule/
 
 https://www.timothysykes.com/blog/market-closed-short-week-volatility/
 
 https://www.timothysykes.com/blog/next-nvidia-stock/
+
+https://www.timothysykes.com/blog/penny-stocks-to-watch/
+
+https://www.timothysykes.com/blog/hot-stocks/
+
+https://www.timothysykes.com/blog/alerts-on-fire/
 
 https://www.timsykes.com/weekend-windfalls/
 
