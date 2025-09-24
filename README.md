@@ -224,12 +224,6 @@ https://skfolio.org/auto_examples/mean_risk/plot_1_maximum_sharpe_ratio.html#sph
 
 https://skfolio.org/auto_examples/mean_risk/plot_2_minimum_CVaR.html#sphx-glr-auto-examples-1-mean-risk-plot-2-minimum-cvar-py
 
-https://pypi.org/project/openbb/
-
-https://docs.openbb.com/
-
-https://github.com/OpenBB-finance/OpenBB
-
 https://medium.com/@kasperjuunge/yfinance-10-ways-to-get-stock-data-with-python-6677f49e8282
 
 https://alphabench.com/data/pandas-quantitative-analysis-tutorial.html
@@ -264,8 +258,6 @@ https://profitview.net/events/how-to-start-a-systematic-trading-fund
 
 https://profitview.net/events/getting-started-with-trading-bots
 
-https://pro.openbb.co/login
-
 https://github.com/profitviews/popular-gits/blob/main/Quantlib.md
 
 https://github.com/QuantConnect
@@ -274,19 +266,21 @@ https://github.com/mementum/backtrader
 
 https://github.com/cybergeekgyan/Quant-Developers-Resources
 
-https://github.com/OpenBB-finance/experimental-openbb-platform-agent/blob/main/getting_started.ipynb
-
-https://github.com/OpenBB-finance/openbb-agents/blob/main/getting_started.ipynb
-
 https://github.com/ranaroussi/quantstats
 
 https://github.com/lit26/finvizfinance
+
+https://pro.openbb.co/login
 
 https://pypi.org/project/openbb/
 
 https://docs.openbb.com/
 
 https://github.com/OpenBB-finance/OpenBB
+
+https://github.com/OpenBB-finance/experimental-openbb-platform-agent/blob/main/getting_started.ipynb
+
+https://github.com/OpenBB-finance/openbb-agents/blob/main/getting_started.ipynb
 
 https://www.linkedin.com/posts/quant-science_finance-in-python-is-insane-check-out-activity-7240357276555882497-v-k7/?utm_source=share&utm_medium=member_desktop
 
