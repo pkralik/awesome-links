@@ -312,6 +312,8 @@ https://strategyquant.com/download/?kct=307c299d-d2a1-4926-9758-ac96df4c1ca9
 
 https://www.valueclub.cz/kurz/investice-pasivni-prijem/
 
+https://www.wincent.com/
+
 ## Quantra ##
 
 https://www.quantinsti.com/
@@ -408,9 +410,25 @@ https://www.coursera.org/learn/python-statistics-financial-analysis/
 
 https://www.coursera.org/learn/introduction-to-growth-investing/
 
-https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/algorithmic-trading-using-machine-learning?resume=false&u=2201706
+https://www.udemy.com/course/quantconnect-boot-camp-in-python/
 
-https://www.udemy.com/course/quantconnect-boot-camp-in-python/learn/lecture/17859478#overview
+https://www.udemy.com/course/how-to-use-tradingview/
+
+https://www.udemy.com/course/learn-tradingview-pine-script-properly/
+
+https://www.udemy.com/course/simple-and-fast-trading-robot-setup-with-docker-tradingview/
+
+https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/algorithmic-trading-using-machine-learning
+
+https://github.com/LinkedInLearning/practical-python-for-algorithmic-trading-4403633
+
+https://www.pyquantnews.com/past-pyquant-newsletter-issues
+
+https://github.com/quant-science/sunday-quant-scientist
+
+https://www.youtube.com/watch?v=Rl8JDto2JYo
+
+https://www.cloudskillsboost.google/
 
 ## Trading ##
 
@@ -584,15 +602,33 @@ https://github.com/mongodb-developer/genai-devday-notebooks
 
 https://colab.research.google.com/github/tensorflow/io/blob/master/docs/tutorials/mongodb.ipynb
 
-## Prompts ##
-
-https://drive.google.com/file/d/18pqKVi9XyVOQlhGmglnNz3Y4iTyHcn0d/view
-
 ## Google ##
 
 https://cloudonair.withgoogle.com/
 
 https://cloudonair.withgoogle.com/#upcoming_events
+
+https://cloudonair.withgoogle.com/events/boost-your-creativity-and-productivity-with-the-gemini
+
+https://cloudonair.withgoogle.com/events/techbyte-gaining-buy-in-a-guide-to-successful-ai-integration-in-development
+
+https://cloudonair.withgoogle.com/events/techbyte-unlock-value-with-ai-agents
+
+https://cloudonair.withgoogle.com/events/weeklies-unlock-ai-and-cloud-mar-od
+
+https://cloudonair.withgoogle.com/events/weeklies-build-ai-agents-with-genkit-may
+
+https://cloudonair.withgoogle.com/events/summit-emea-security-25
+
+https://cloudonair.withgoogle.com/events/startup-school-ai-q1-2025
+
+https://cloudonair.withgoogle.com/events/startup-school-ai-q2-2025
+
+https://cloudonair.withgoogle.com/events/startup-school-ai-q2
+
+https://cloudonair.withgoogle.com/events/startup-school-ai-q4
+
+https://cloudonair.withgoogle.com/events/leap-forward-gen-ai
 
 https://cloudonair.withgoogle.com/events/gws-prompting-gemini-duet-ai/watch?talk=t1-s1
 
@@ -612,14 +648,6 @@ https://cloudonair.withgoogle.com/events/key-prompt-engineering-techniques-with-
 
 https://www.youtube.com/watch?v=PAm8Kj8uqVg
 
-https://cloudonair.withgoogle.com/events/leap-forward-gen-ai
-
-https://cloudonair.withgoogle.com/events/startup-school-ai-q1-2025
-
-https://cloudonair.withgoogle.com/events/startup-school-ai-q2
-
-https://cloudonair.withgoogle.com/events/startup-school-ai-q4
-
 https://firebase.google.com/codelabs/ai-genkit-rag#8
 
 https://github.com/FirebaseExtended/codelab-ai-genkit-rag
@@ -633,6 +661,8 @@ https://codelabs.developers.google.com/codelabs/how-to-deploy-gemini-powered-cha
 https://codelabs.developers.google.com/codelabs/how-to-cloud-run-gemini-function-calling#3
 
 https://codelabs.developers.google.com/codelabs/how-to-use-stable-diffusion-cloud-run-gpu#0
+
+https://cloud.google.com/learn/security/mandiant-academy
 
 https://cloud.google.com/run/docs/tutorials/gpu-gemma-with-ollama
 
@@ -721,6 +751,20 @@ https://sre.google/sre-book/table-of-contents/
 https://www.coursera.org/learn/site-reliability-engineering-slos
 
 https://info.microsoft.com/rs/157-GQE-382/images/EN-CNTNT-eBook-DesigningDistributedSystems.pdf?utm_source=substack&utm_medium=email
+
+## Prompts ##
+
+https://drive.google.com/file/d/18pqKVi9XyVOQlhGmglnNz3Y4iTyHcn0d/view
+
+https://www.linkedin.com/posts/how-to-ai-guide_how-to-create-a-polaroid-hug-photo-with-gemini-ugcPost-7376239362893709312-x12M/?utm_source=share&utm_medium=member_android&rcm=ACoAAAIQyZYB5hHdQAk--iI1TdcwTKw6gpvtcVc
+
+How to get a realistic Polaroid photo with Gemini:
+
+- Step 1. Find a close-up photo of yourself.
+- Step 2. Go to gemini.google.com/app
+- Step 3. Upload your photo & the photo of the other person.
+- Step 4. Copy & paste this prompt:
+- Prompt: "Take a photo taken with a Polaroid camera. The photo should look like an ordinary photograph, without an explicit subject or property. The photo should have a slight blur, a consistent light source, like a flash from a dark room, scattered throughout the photo. Don't change the face. Change the background behind those people with white curtains. Make cute poses with these people. With my friends being close to me and hugging me, looking straight into the camera without changing the smile too."
 
 ## Various ##
 
