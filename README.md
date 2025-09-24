@@ -622,6 +622,20 @@ https://cloudonair.withgoogle.com/events/boost-your-creativity-and-productivity-
 
 https://cloudonair.withgoogle.com/events/genmedia-the-new-ai-creative-era
 
+https://cloudonair.withgoogle.com/events/startups-technical-guide-ai-agents
+
+https://cloudonair.withgoogle.com/events/startup-school-ai-q1-2025
+
+https://cloudonair.withgoogle.com/events/startup-school-ai-q2-2025
+
+https://cloudonair.withgoogle.com/events/startup-school-ai-q4-2025
+
+https://cloudonair.withgoogle.com/events/startup-school-ai-q2
+
+https://cloudonair.withgoogle.com/events/startup-school-ai-q4
+
+https://cloudonair.withgoogle.com/events/leap-forward-gen-ai
+
 https://cloudonair.withgoogle.com/techbytes
 
 https://cloudonair.withgoogle.com/events/techbyte-gaining-buy-in-a-guide-to-successful-ai-integration-in-development
@@ -637,16 +651,6 @@ https://cloudonair.withgoogle.com/events/weeklies-unlock-ai-and-cloud-mar-od
 https://cloudonair.withgoogle.com/events/weeklies-build-ai-agents-with-genkit-may
 
 https://cloudonair.withgoogle.com/events/summit-emea-security-25
-
-https://cloudonair.withgoogle.com/events/startup-school-ai-q1-2025
-
-https://cloudonair.withgoogle.com/events/startup-school-ai-q2-2025
-
-https://cloudonair.withgoogle.com/events/startup-school-ai-q2
-
-https://cloudonair.withgoogle.com/events/startup-school-ai-q4
-
-https://cloudonair.withgoogle.com/events/leap-forward-gen-ai
 
 https://cloudonair.withgoogle.com/events/gws-prompting-gemini-duet-ai/watch?talk=t1-s1
 
