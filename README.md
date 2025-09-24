@@ -614,6 +614,10 @@ https://cloudonair.withgoogle.com/events/techbyte-gaining-buy-in-a-guide-to-succ
 
 https://cloudonair.withgoogle.com/events/techbyte-unlock-value-with-ai-agents
 
+https://cloudonair.withgoogle.com/weeklies
+
+https://cloudonair.withgoogle.com/events/weeklies-monetise-data-with-embedded-analytics-may
+
 https://cloudonair.withgoogle.com/events/weeklies-unlock-ai-and-cloud-mar-od
 
 https://cloudonair.withgoogle.com/events/weeklies-build-ai-agents-with-genkit-may
@@ -647,6 +651,10 @@ https://cloudonair.withgoogle.com/events/gen-ai-observability-for-python-develop
 https://cloudonair.withgoogle.com/events/key-prompt-engineering-techniques-with-anthropics-claude-on-vertex-ai
 
 https://www.youtube.com/watch?v=PAm8Kj8uqVg
+
+https://services.google.com/fh/files/misc/gws_gemini_advanced_one_ebook.pdf
+
+https://services.google.com/fh/files/misc/gemini_for_workspace_prompt_guide_october_2024_digital_final.pdf
 
 https://firebase.google.com/codelabs/ai-genkit-rag#8
 
