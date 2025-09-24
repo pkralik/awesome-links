@@ -314,6 +314,8 @@ https://www.valueclub.cz/kurz/investice-pasivni-prijem/
 
 https://www.wincent.com/
 
+https://github.com/genai-for-traders/genai-for-trading-and-am
+
 ## Quantra ##
 
 https://www.quantinsti.com/
@@ -417,6 +419,14 @@ https://www.udemy.com/course/how-to-use-tradingview/
 https://www.udemy.com/course/learn-tradingview-pine-script-properly/
 
 https://www.udemy.com/course/simple-and-fast-trading-robot-setup-with-docker-tradingview/
+
+https://www.udemy.com/course/mastering-tradingview-from-beginner-to-pro/
+
+https://www.udemy.com/course/trading-view-master-class-unlock-your-tradingview-trading-skills/
+
+https://www.udemy.com/course/proprietary-algos-and-elite-indicators-on-tradingview/
+
+https://www.udemy.com/course/draft/4655762/learn/lecture/31938608#overview
 
 https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/algorithmic-trading-using-machine-learning
 
@@ -610,6 +620,10 @@ https://cloudonair.withgoogle.com/#upcoming_events
 
 https://cloudonair.withgoogle.com/events/boost-your-creativity-and-productivity-with-the-gemini
 
+https://cloudonair.withgoogle.com/events/genmedia-the-new-ai-creative-era
+
+https://cloudonair.withgoogle.com/techbytes
+
 https://cloudonair.withgoogle.com/events/techbyte-gaining-buy-in-a-guide-to-successful-ai-integration-in-development
 
 https://cloudonair.withgoogle.com/events/techbyte-unlock-value-with-ai-agents
@@ -652,9 +666,31 @@ https://cloudonair.withgoogle.com/events/key-prompt-engineering-techniques-with-
 
 https://www.youtube.com/watch?v=PAm8Kj8uqVg
 
+https://ai.google.dev/gemini-api/docs/video
+
+https://developers.googleblog.com/en/veo-3-fast-image-to-video-capabilities-now-available-gemini-api/
+
+https://developers.googleblog.com/en/new-ai-capabilities-for-popular-frameworks-in-firebase-studio/
+
 https://services.google.com/fh/files/misc/gws_gemini_advanced_one_ebook.pdf
 
 https://services.google.com/fh/files/misc/gemini_for_workspace_prompt_guide_october_2024_digital_final.pdf
+
+https://aistudio.google.com/
+
+https://aistudio.google.com/prompts/new_video
+
+https://aistudio.google.com/apps
+
+https://aistudio.google.com/live
+
+https://aistudio.google.com/apps/bundled/gemini_95
+
+https://aistudio.google.com/app/apikey
+
+https://firebase.studio/
+
+https://firebase.google.com/docs/studio/get-started-ai
 
 https://firebase.google.com/codelabs/ai-genkit-rag#8
 
@@ -740,6 +776,8 @@ https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/function-c
 
 https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/tuning
 
+https://github.com/DataDog/dpn/blob/master/partner-workshops/gcp-ai-startup-school.md
+
 https://www.youtube.com/@googlecloudtech?sttick=0
 
 ## SRE ##
@@ -763,6 +801,8 @@ https://info.microsoft.com/rs/157-GQE-382/images/EN-CNTNT-eBook-DesigningDistrib
 ## Prompts ##
 
 https://drive.google.com/file/d/18pqKVi9XyVOQlhGmglnNz3Y4iTyHcn0d/view
+
+https://docs.google.com/document/d/1hkxe9_O_I-dGS1bqxyOpf10nkmAT_ezwYhZcFJC0kZA/edit?tab=t.0#heading=h.4rc8j4az44st
 
 https://www.linkedin.com/posts/how-to-ai-guide_how-to-create-a-polaroid-hug-photo-with-gemini-ugcPost-7376239362893709312-x12M/?utm_source=share&utm_medium=member_android&rcm=ACoAAAIQyZYB5hHdQAk--iI1TdcwTKw6gpvtcVc
 
