@@ -488,13 +488,23 @@ http://www.trading-aos.cz/articles/ninjascript-programovani-ve-wizardu
 
 https://www.swing-trade-stocks.com/
 
-https://morpheustrading.com/
+https://www.swing-trade-stocks.com/learn-swing-trading.html
 
 https://morpheustrading.com/blog/
 
-https://morpheustrading.com/blog/20-ema-indicator/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+mtg-swing-trading+%28Swing+Trading+Stocks+%26+ETFs+With+Morpheus+Trading+Group%29
+https://morpheustrading.com/blog/swing-trading-strategies/
+
+https://morpheustrading.com/blog/how-to-find-breakouts/
+
+https://morpheustrading.com/blog/blast-off-breakout/
+
+https://morpheustrading.com/blog/20-ema-indicator/
+
+https://morpheustrading.com/blog/no-worry-market-pullback/
 
 https://marketgauge.com/
+
+https://marketgauge.com/resources/blog/
 
 https://www.thetradingchannel.com/swing-trading/
 
