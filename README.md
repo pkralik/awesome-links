@@ -120,6 +120,8 @@ https://www.timothysykes.com/learn-to-trade/
 
 https://www.timothysykes.com/blog/
 
+https://www.timothysykes.com/blog/my-ai-energy-watchlist/
+
 https://www.timothysykes.com/blog/patterns-in-action/
 
 https://www.timothysykes.com/blog/prepare-for-next-trade-setup/
