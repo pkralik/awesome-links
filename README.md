@@ -580,6 +580,10 @@ https://stockcharts.com/h-sc/ui?s=IPDN&p=D&b=5&g=0&id=p76324137981
 
 https://stockcharts.com/h-sc/ui?s=LEE&p=D&b=5&g=0&id=p76324137981
 
+## AI Trading ##
+
+https://medium.datadriveninvestor.com/my-chatgpt-generated-trading-strategies-are-demolishing-the-market-d855454df306
+
 ## AI ##
 
 https://aistudio.google.com/
