@@ -86,8 +86,6 @@ https://ragingbull.com/
 
 https://app.ragingbull.com/member
 
-https://www.jasonbondpicks.com/articles/
-
 https://www.stockfetcher.com/examples
 
 http://thestockmarketwatch.com/markets/topstocks/
@@ -143,6 +141,12 @@ https://www.timsykes.com/weekend-windfalls/
 https://trading.timothysykes.com/tww-op/step/overnight-profits-vsl/
 
 https://event.webinarjam.com/replay/171/09m13umwakgvs6z3qtm43730
+
+## Jason Bond ##
+
+https://www.jasonbondpicks.com/articles/
+
+https://www.jasonbondpicks.com/articles/3-oversold-small-caps-under-5-to-consider/
 
 ## Steve Primo ##
 
@@ -470,6 +474,8 @@ https://www.stocktrader.com/free-education/
 
 https://marketmastery.com/
 
+https://www.bigtrends.com/education/technicals/the-art-of-war-trading-applying-sun-tzus-lessons/
+
 https://www.quora.com/What-is-the-best-way-to-backtest-a-stock-trading-strategy
 
 http://www.zipline.io/beginner-tutorial.html#my-first-algorithm
@@ -501,6 +507,8 @@ https://www.chartmill.com/documentation/stock-screener/technical-analysis-tradin
 https://www.warriortrading.com/how-to-find-stocks-to-swing-trade/
 
 https://blog.elearnmarkets.com/basics-of-swing-trading/
+
+http://swing-trading-strategies.com/50-ema-swing-trading-system/
 
 https://morpheustrading.com/blog/
 
