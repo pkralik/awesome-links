@@ -64,6 +64,8 @@ https://www.chartmill.com/documentation/stock-screener/technical-analysis-tradin
 
 https://www.warriortrading.com/how-to-find-stocks-to-swing-trade/
 
+https://blog.elearnmarkets.com/basics-of-swing-trading/
+
 ## Trading Chats ##
 
 https://profit.ly/
