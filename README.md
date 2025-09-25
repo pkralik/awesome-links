@@ -62,6 +62,8 @@ https://www.chartmill.com/
 
 https://www.chartmill.com/documentation/stock-screener/technical-analysis-trading-strategies/78-Swing-Trading-pullbacks
 
+https://www.warriortrading.com/how-to-find-stocks-to-swing-trade/
+
 ## Trading Chats ##
 
 https://profit.ly/
