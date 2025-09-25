@@ -20,6 +20,8 @@ https://finviz.com/screener.ashx?v=341&f=geo_usa,sh_curvol_o50&o=-change
 
 https://finviz.com/screener.ashx?v=351&f=fa_epsyoy_high,sh_avgvol_o100,sh_curvol_o200,sh_price_u30,ta_perf_dup,ta_sma20_pb,ta_sma200_pa,ta_sma50_pca&ft=4&o=forwardpe
 
+https://finance.yahoo.com/research-hub/screener/
+
 https://finance.yahoo.com/markets/stocks/gainers/
 
 https://finance.yahoo.com/research-hub/screener/day_gainers/
