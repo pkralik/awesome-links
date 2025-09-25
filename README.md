@@ -486,6 +486,16 @@ http://www.trading-aos.cz/articles/ninjascript-programovani-ve-wizardu
 
 ## Swing Trading ##
 
+https://www.swing-trade-stocks.com/
+
+https://morpheustrading.com/
+
+https://morpheustrading.com/blog/
+
+https://morpheustrading.com/blog/20-ema-indicator/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+mtg-swing-trading+%28Swing+Trading+Stocks+%26+ETFs+With+Morpheus+Trading+Group%29
+
+https://marketgauge.com/
+
 https://www.thetradingchannel.com/swing-trading/
 
 https://admiralmarkets.com/education/articles/forex-strategy/forex-swing-trading-strategies-that-work
