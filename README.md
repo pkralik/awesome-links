@@ -58,6 +58,10 @@ https://caps.fool.com/ticker-ranking/?sortdir=1&sortcol=28&pagenum=0&filter=7
 
 https://web.stockedge.com/scan-category/simple-moving-averages/301
 
+https://www.chartmill.com/
+
+https://www.chartmill.com/documentation/stock-screener/technical-analysis-trading-strategies/78-Swing-Trading-pullbacks
+
 ## Trading Chats ##
 
 https://profit.ly/
@@ -79,8 +83,6 @@ http://stocktwits.com/
 https://stocktwits.com/#people-and-stocks:118455
 
 https://stocktwits.com/Newbie2012
-
-https://www.chartmill.com/
 
 https://ragingbull.com/
 
