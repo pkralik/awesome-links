@@ -146,7 +146,15 @@ https://event.webinarjam.com/replay/171/09m13umwakgvs6z3qtm43730
 
 https://www.jasonbondpicks.com/articles/
 
+https://www.jasonbondpicks.com/category/watchlist/
+
+https://www.jasonbondpicks.com/category/articles/
+
+https://www.jasonbondpicks.com/category/options-wire/
+
 https://www.jasonbondpicks.com/articles/3-oversold-small-caps-under-5-to-consider/
+
+https://www.jasonbondpicks.com/articles/7-hot-stocks-under-3/
 
 ## Steve Primo ##
 
