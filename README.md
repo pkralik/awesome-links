@@ -60,12 +60,6 @@ https://web.stockedge.com/scan-category/simple-moving-averages/301
 
 https://www.chartmill.com/
 
-https://www.chartmill.com/documentation/stock-screener/technical-analysis-trading-strategies/78-Swing-Trading-pullbacks
-
-https://www.warriortrading.com/how-to-find-stocks-to-swing-trade/
-
-https://blog.elearnmarkets.com/basics-of-swing-trading/
-
 ## Trading Chats ##
 
 https://profit.ly/
@@ -495,6 +489,18 @@ http://www.trading-aos.cz/articles/ninjascript-programovani-ve-wizardu
 https://www.swing-trade-stocks.com/
 
 https://www.swing-trade-stocks.com/learn-swing-trading.html
+
+https://www.swing-trade-stocks.com/swing-trading-blog.html
+
+https://www.swing-trade-stocks.com/chart-patterns.html
+
+https://www.swing-trade-stocks.com/stock-scans.html
+
+https://www.chartmill.com/documentation/stock-screener/technical-analysis-trading-strategies/78-Swing-Trading-pullbacks
+
+https://www.warriortrading.com/how-to-find-stocks-to-swing-trade/
+
+https://blog.elearnmarkets.com/basics-of-swing-trading/
 
 https://morpheustrading.com/blog/
 
