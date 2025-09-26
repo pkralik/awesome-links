@@ -514,6 +514,10 @@ https://www.swing-trade-stocks.com/chart-patterns.html
 
 https://www.swing-trade-stocks.com/stock-scans.html
 
+https://www.beststockpickingservices.com/
+
+https://www.beststockpickingservices.com/simple-swing-trading-strategy/
+
 https://www.chartmill.com/documentation/stock-screener/technical-analysis-trading-strategies/78-Swing-Trading-pullbacks
 
 https://www.warriortrading.com/how-to-find-stocks-to-swing-trade/
@@ -654,6 +658,12 @@ https://www.perplexity.ai/help-center/en/articles/11144811-perplexity-labs
 
 https://www.zive.cz/clanky/aivyhledavac-perplexity-pro-s-mnoha-placenymi-modely-muzete-mit-u-t-mobilu-zadarmonavod-jak-na-to/sc-3-a-232451/default.aspx
 
+https://www.mongodb.com/resources/products/fundamentals/webinar-intro-to-ai-agents-and-agentic-systems
+
+https://adoption.microsoft.com/en-us/ai-agents/
+
+https://www.microsoft.com/en-us/microsoft-copilot/copilot-101/build-ai-agent
+
 https://www.deeplearning.ai/short-courses/serverless-agentic-workflows-with-amazon-bedrock/
 
 https://medium.com/google-cloud/decoding-google-ai-studio-your-in-depth-guide-to-mastering-generative-ai-settings-af9a15bec7a8
@@ -676,11 +686,13 @@ https://cloudonair.withgoogle.com/
 
 https://cloudonair.withgoogle.com/#upcoming_events
 
-https://cloudonair.withgoogle.com/events/boost-your-creativity-and-productivity-with-the-gemini
+https://cloudonair.withgoogle.com/weeklies
 
-https://cloudonair.withgoogle.com/events/genmedia-the-new-ai-creative-era
+https://cloudonair.withgoogle.com/events/weeklies-build-ai-agents-with-genkit-may
 
-https://cloudonair.withgoogle.com/events/startups-technical-guide-ai-agents
+https://cloudonair.withgoogle.com/events/weeklies-unlock-ai-and-cloud-mar-od
+
+https://cloudonair.withgoogle.com/events/weeklies-monetise-data-with-embedded-analytics-may
 
 https://cloudonair.withgoogle.com/events/startup-school-ai-q1-2025
 
@@ -692,21 +704,19 @@ https://cloudonair.withgoogle.com/events/startup-school-ai-q2
 
 https://cloudonair.withgoogle.com/events/startup-school-ai-q4
 
-https://cloudonair.withgoogle.com/events/leap-forward-gen-ai
-
 https://cloudonair.withgoogle.com/techbytes
-
-https://cloudonair.withgoogle.com/events/techbyte-gaining-buy-in-a-guide-to-successful-ai-integration-in-development
 
 https://cloudonair.withgoogle.com/events/techbyte-unlock-value-with-ai-agents
 
-https://cloudonair.withgoogle.com/weeklies
+https://cloudonair.withgoogle.com/events/techbyte-gaining-buy-in-a-guide-to-successful-ai-integration-in-development
 
-https://cloudonair.withgoogle.com/events/weeklies-monetise-data-with-embedded-analytics-may
+https://cloudonair.withgoogle.com/events/boost-your-creativity-and-productivity-with-the-gemini
 
-https://cloudonair.withgoogle.com/events/weeklies-unlock-ai-and-cloud-mar-od
+https://cloudonair.withgoogle.com/events/startups-technical-guide-ai-agents
 
-https://cloudonair.withgoogle.com/events/weeklies-build-ai-agents-with-genkit-may
+https://cloudonair.withgoogle.com/events/genmedia-the-new-ai-creative-era
+
+https://cloudonair.withgoogle.com/events/leap-forward-gen-ai
 
 https://cloudonair.withgoogle.com/events/summit-emea-security-25
 
