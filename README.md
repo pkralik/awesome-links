@@ -66,8 +66,6 @@ https://web.stockedge.com/scan-category/simple-moving-averages/301
 
 https://www.chartmill.com/
 
-https://www.youtube.com/watch?v=CJoN7wLfWNo
-
 ## Trading Chats ##
 
 https://profit.ly/
@@ -189,6 +187,12 @@ https://www.youtube.com/watch?v=nW83UlYrIiw
 https://www.youtube.com/watch?v=aM6mq3JZZEQ
 
 https://www.youtube.com/watch?v=iDHZ9TcAktA
+
+## Screener videos ##
+
+https://www.youtube.com/watch?v=CJoN7wLfWNo
+
+https://www.youtube.com/watch?v=PpUlOyZrl9E
 
 ## Indicators ##
 
