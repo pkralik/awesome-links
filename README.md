@@ -6,13 +6,17 @@ https://www.tradingview.com/
 
 https://www.tradingview.com/screener/
 
+https://www.tradingview.com/screener/geZX7mtB/
+
 https://finviz.com/
+
+https://finviz.com/screener.ashx
 
 https://finviz.com/screener.ashx?v=340&s=ta_topgainers
 
 https://finviz.com/screener.ashx?v=340&s=ta_newhigh
 
-https://finviz.com/screener.ashx?v=320&s=ta_unusualvolume#
+https://finviz.com/screener.ashx?v=340&s=ta_unusualvolume
 
 http://finviz.com/screener.ashx?v=111&f=sh_curvol_o50&o=-change
 
