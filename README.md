@@ -302,6 +302,10 @@ https://www.linkedin.com/posts/quant-science_finance-in-python-is-insane-check-o
 
 https://github.com/pmorissette/ffn
 
+https://www.youtube.com/watch?v=b9RgHa1CnH4
+
+https://github.com/daniel-boctor/Daniel-Boctor-Youtube/blob/main/Finance101/finance.ipynb
+
 ## Algo Trading ##
 
 https://trhy.cz/
