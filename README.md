@@ -62,6 +62,8 @@ https://web.stockedge.com/scan-category/simple-moving-averages/301
 
 https://www.chartmill.com/
 
+https://www.youtube.com/watch?v=CJoN7wLfWNo
+
 ## Trading Chats ##
 
 https://profit.ly/
@@ -305,6 +307,8 @@ https://github.com/pmorissette/ffn
 https://www.youtube.com/watch?v=b9RgHa1CnH4
 
 https://github.com/daniel-boctor/Daniel-Boctor-Youtube/blob/main/Finance101/finance.ipynb
+
+https://www.youtube.com/watch?v=SxIwqdedomg
 
 ## Algo Trading ##
 
