@@ -18,9 +18,9 @@ https://finviz.com/screener.ashx?v=210&s=ta_newhigh&f=sh_curvol_o50&o=-change
 
 https://finviz.com/screener.ashx?v=210&s=ta_unusualvolume&f=sh_curvol_o50&o=-change
 
-http://finviz.com/screener.ashx?v=340&f=sh_curvol_o50&o=-change
+https://finviz.com/screener.ashx?v=210&f=sh_curvol_o50&o=-change
 
-https://finviz.com/screener.ashx?v=340&f=geo_usa,sh_curvol_o50&o=-change
+https://finviz.com/screener.ashx?v=210&f=geo_usa,sh_curvol_o50&o=-change
 
 https://finviz.com/screener.ashx?v=340&f=fa_epsyoy_high,sh_avgvol_o100,sh_curvol_o200,sh_price_u30,ta_perf_dup,ta_sma20_pb,ta_sma200_pa,ta_sma50_pca&ft=4&o=forwardpe
 
