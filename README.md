@@ -12,11 +12,11 @@ https://finviz.com/
 
 https://finviz.com/screener.ashx
 
-https://finviz.com/screener.ashx?v=340&s=ta_topgainers
+https://finviz.com/screener.ashx?v=210&s=ta_topgainers&f=sh_curvol_o50&o=-change
 
-https://finviz.com/screener.ashx?v=340&s=ta_newhigh
+https://finviz.com/screener.ashx?v=210&s=ta_newhigh&f=sh_curvol_o50&o=-change
 
-https://finviz.com/screener.ashx?v=340&s=ta_unusualvolume
+https://finviz.com/screener.ashx?v=210&s=ta_unusualvolume&f=sh_curvol_o50&o=-change
 
 http://finviz.com/screener.ashx?v=340&f=sh_curvol_o50&o=-change
 
