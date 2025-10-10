@@ -36,6 +36,8 @@ https://finance.yahoo.com/markets/stocks/gainers/
 
 https://finance.yahoo.com/research-hub/screener/day_gainers/
 
+https://www.investing.com/stock-screener/wallet-friendly
+
 https://www.google.com/finance/quote/GEN:NASDAQ?window=1M
 
 https://www.barchart.com/stocks/performance/percent-change/advances
