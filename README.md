@@ -580,6 +580,10 @@ https://s3.eu-central-1.amazonaws.com/purple-trading-emailing.master/LFI/Ebooks/
 
 ## Watchlist ##
 
+https://pkralik.github.io/
+
+http://ec2-3-8-173-118.eu-west-2.compute.amazonaws.com/watchlist/
+
 http://20.67.101.148/watchlist/
 
 http://20.67.101.148/watchlist/watchlist.html
