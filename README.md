@@ -594,8 +594,6 @@ http://ec2-3-8-173-118.eu-west-2.compute.amazonaws.com/watchlist/investing.html
 
 http://ec2-3-8-173-118.eu-west-2.compute.amazonaws.com/watchlist/tickers.html
 
-http://ec2-3-8-173-118.eu-west-2.compute.amazonaws.com/watchlist/timalerts.html
-
 http://ec2-3-8-173-118.eu-west-2.compute.amazonaws.com/watchlist/watchlist.html
 
 http://ec2-3-8-173-118.eu-west-2.compute.amazonaws.com/watchlist/watchlist-25-10-13.html
