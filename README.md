@@ -6,21 +6,39 @@ https://www.tradingview.com/
 
 https://www.tradingview.com/screener/
 
+https://www.tradingview.com/screener/geZX7mtB/
+
 https://finviz.com/
+
+https://finviz.com/screener.ashx
 
 https://finviz.com/screener.ashx?v=340&s=ta_topgainers
 
-https://finviz.com/screener.ashx?v=320&s=ta_unusualvolume#
+https://finviz.com/screener.ashx?v=340&s=ta_newhigh
 
-http://finviz.com/screener.ashx?v=111&f=sh_curvol_o50&o=-change
+https://finviz.com/screener.ashx?v=340&s=ta_unusualvolume
 
-https://finviz.com/screener.ashx?v=341&f=geo_usa,sh_curvol_o50&o=-change
+https://finviz.com/screener.ashx?v=340&s=ta_topgainers&f=sh_curvol_o50&o=-change
 
-https://finviz.com/screener.ashx?v=351&f=fa_epsyoy_high,sh_avgvol_o100,sh_curvol_o200,sh_price_u30,ta_perf_dup,ta_sma20_pb,ta_sma200_pa,ta_sma50_pca&ft=4&o=forwardpe
+https://finviz.com/screener.ashx?v=340&s=ta_newhigh&f=sh_curvol_o50&o=-change
+
+https://finviz.com/screener.ashx?v=340&s=ta_unusualvolume&f=sh_curvol_o50&o=-change
+
+https://finviz.com/screener.ashx?v=340&f=sh_curvol_o50&o=-change
+
+https://finviz.com/screener.ashx?v=340&f=geo_usa,sh_curvol_o50&o=-change
+
+https://finviz.com/screener.ashx?v=340&f=fa_epsyoy_high,sh_avgvol_o100,sh_curvol_o200,sh_price_u30,ta_perf_dup,ta_sma20_pb,ta_sma200_pa,ta_sma50_pca&ft=4&o=forwardpe
+
+https://finance.yahoo.com/research-hub/screener/
 
 https://finance.yahoo.com/markets/stocks/gainers/
 
 https://finance.yahoo.com/research-hub/screener/day_gainers/
+
+https://www.investing.com/stock-screener/wallet-friendly
+
+https://www.google.com/finance/quote/GEN:NASDAQ?window=1M
 
 https://www.barchart.com/stocks/performance/percent-change/advances
 
@@ -54,6 +72,8 @@ https://caps.fool.com/ticker-ranking/?sortdir=1&sortcol=28&pagenum=0&filter=7
 
 https://web.stockedge.com/scan-category/simple-moving-averages/301
 
+https://www.chartmill.com/
+
 ## Trading Chats ##
 
 https://profit.ly/
@@ -76,13 +96,9 @@ https://stocktwits.com/#people-and-stocks:118455
 
 https://stocktwits.com/Newbie2012
 
-https://www.chartmill.com/
-
 https://ragingbull.com/
 
 https://app.ragingbull.com/member
-
-https://www.jasonbondpicks.com/articles/
 
 https://www.stockfetcher.com/examples
 
@@ -118,11 +134,11 @@ https://www.timothysykes.com/learn-to-trade/
 
 https://www.timothysykes.com/blog/
 
+https://www.timothysykes.com/blog/my-ai-energy-watchlist/
+
 https://www.timothysykes.com/blog/patterns-in-action/
 
 https://www.timothysykes.com/blog/prepare-for-next-trade-setup/
-
-https://www.timothysykes.com/blog/alerts-on-fire/
 
 https://www.timothysykes.com/blog/perfect-trade-schedule/
 
@@ -130,11 +146,31 @@ https://www.timothysykes.com/blog/market-closed-short-week-volatility/
 
 https://www.timothysykes.com/blog/next-nvidia-stock/
 
+https://www.timothysykes.com/blog/penny-stocks-to-watch/
+
+https://www.timothysykes.com/blog/hot-stocks/
+
+https://www.timothysykes.com/blog/alerts-on-fire/
+
 https://www.timsykes.com/weekend-windfalls/
 
 https://trading.timothysykes.com/tww-op/step/overnight-profits-vsl/
 
 https://event.webinarjam.com/replay/171/09m13umwakgvs6z3qtm43730
+
+## Jason Bond ##
+
+https://www.jasonbondpicks.com/articles/
+
+https://www.jasonbondpicks.com/category/watchlist/
+
+https://www.jasonbondpicks.com/category/articles/
+
+https://www.jasonbondpicks.com/category/options-wire/
+
+https://www.jasonbondpicks.com/articles/3-oversold-small-caps-under-5-to-consider/
+
+https://www.jasonbondpicks.com/articles/7-hot-stocks-under-3/
 
 ## Steve Primo ##
 
@@ -159,6 +195,14 @@ https://www.youtube.com/watch?v=nW83UlYrIiw
 https://www.youtube.com/watch?v=aM6mq3JZZEQ
 
 https://www.youtube.com/watch?v=iDHZ9TcAktA
+
+## Screener videos ##
+
+https://www.youtube.com/watch?v=CJoN7wLfWNo
+
+https://www.youtube.com/watch?v=PpUlOyZrl9E
+
+https://www.youtube.com/watch?v=ZpRJ-kHRMDw
 
 ## Indicators ##
 
@@ -216,12 +260,6 @@ https://skfolio.org/auto_examples/mean_risk/plot_1_maximum_sharpe_ratio.html#sph
 
 https://skfolio.org/auto_examples/mean_risk/plot_2_minimum_CVaR.html#sphx-glr-auto-examples-1-mean-risk-plot-2-minimum-cvar-py
 
-https://pypi.org/project/openbb/
-
-https://docs.openbb.com/
-
-https://github.com/OpenBB-finance/OpenBB
-
 https://medium.com/@kasperjuunge/yfinance-10-ways-to-get-stock-data-with-python-6677f49e8282
 
 https://alphabench.com/data/pandas-quantitative-analysis-tutorial.html
@@ -256,8 +294,6 @@ https://profitview.net/events/how-to-start-a-systematic-trading-fund
 
 https://profitview.net/events/getting-started-with-trading-bots
 
-https://pro.openbb.co/login
-
 https://github.com/profitviews/popular-gits/blob/main/Quantlib.md
 
 https://github.com/QuantConnect
@@ -266,13 +302,11 @@ https://github.com/mementum/backtrader
 
 https://github.com/cybergeekgyan/Quant-Developers-Resources
 
-https://github.com/OpenBB-finance/experimental-openbb-platform-agent/blob/main/getting_started.ipynb
-
-https://github.com/OpenBB-finance/openbb-agents/blob/main/getting_started.ipynb
-
 https://github.com/ranaroussi/quantstats
 
 https://github.com/lit26/finvizfinance
+
+https://pro.openbb.co/login
 
 https://pypi.org/project/openbb/
 
@@ -280,9 +314,19 @@ https://docs.openbb.com/
 
 https://github.com/OpenBB-finance/OpenBB
 
+https://github.com/OpenBB-finance/experimental-openbb-platform-agent/blob/main/getting_started.ipynb
+
+https://github.com/OpenBB-finance/openbb-agents/blob/main/getting_started.ipynb
+
 https://www.linkedin.com/posts/quant-science_finance-in-python-is-insane-check-out-activity-7240357276555882497-v-k7/?utm_source=share&utm_medium=member_desktop
 
 https://github.com/pmorissette/ffn
+
+https://www.youtube.com/watch?v=b9RgHa1CnH4
+
+https://github.com/daniel-boctor/Daniel-Boctor-Youtube/blob/main/Finance101/finance.ipynb
+
+https://www.youtube.com/watch?v=SxIwqdedomg
 
 ## Algo Trading ##
 
@@ -313,6 +357,8 @@ https://strategyquant.com/download/?kct=307c299d-d2a1-4926-9758-ac96df4c1ca9
 https://www.valueclub.cz/kurz/investice-pasivni-prijem/
 
 https://www.wincent.com/
+
+https://github.com/genai-for-traders/genai-for-trading-and-am
 
 ## Quantra ##
 
@@ -418,6 +464,14 @@ https://www.udemy.com/course/learn-tradingview-pine-script-properly/
 
 https://www.udemy.com/course/simple-and-fast-trading-robot-setup-with-docker-tradingview/
 
+https://www.udemy.com/course/mastering-tradingview-from-beginner-to-pro/
+
+https://www.udemy.com/course/trading-view-master-class-unlock-your-tradingview-trading-skills/
+
+https://www.udemy.com/course/proprietary-algos-and-elite-indicators-on-tradingview/
+
+https://www.udemy.com/course/draft/4655762/learn/lecture/31938608#overview
+
 https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/algorithmic-trading-using-machine-learning
 
 https://github.com/LinkedInLearning/practical-python-for-algorithmic-trading-4403633
@@ -458,6 +512,8 @@ https://www.stocktrader.com/free-education/
 
 https://marketmastery.com/
 
+https://www.bigtrends.com/education/technicals/the-art-of-war-trading-applying-sun-tzus-lessons/
+
 https://www.quora.com/What-is-the-best-way-to-backtest-a-stock-trading-strategy
 
 http://www.zipline.io/beginner-tutorial.html#my-first-algorithm
@@ -474,6 +530,44 @@ http://www.trading-aos.cz/articles/ninjascript-programovani-ve-wizardu
 
 ## Swing Trading ##
 
+https://www.swing-trade-stocks.com/
+
+https://www.swing-trade-stocks.com/learn-swing-trading.html
+
+https://www.swing-trade-stocks.com/swing-trading-blog.html
+
+https://www.swing-trade-stocks.com/chart-patterns.html
+
+https://www.swing-trade-stocks.com/stock-scans.html
+
+https://www.beststockpickingservices.com/
+
+https://www.beststockpickingservices.com/simple-swing-trading-strategy/
+
+https://www.chartmill.com/documentation/stock-screener/technical-analysis-trading-strategies/78-Swing-Trading-pullbacks
+
+https://www.warriortrading.com/how-to-find-stocks-to-swing-trade/
+
+https://blog.elearnmarkets.com/basics-of-swing-trading/
+
+http://swing-trading-strategies.com/50-ema-swing-trading-system/
+
+https://morpheustrading.com/blog/
+
+https://morpheustrading.com/blog/swing-trading-strategies/
+
+https://morpheustrading.com/blog/how-to-find-breakouts/
+
+https://morpheustrading.com/blog/blast-off-breakout/
+
+https://morpheustrading.com/blog/20-ema-indicator/
+
+https://morpheustrading.com/blog/no-worry-market-pullback/
+
+https://marketgauge.com/
+
+https://marketgauge.com/resources/blog/
+
 https://www.thetradingchannel.com/swing-trading/
 
 https://admiralmarkets.com/education/articles/forex-strategy/forex-swing-trading-strategies-that-work
@@ -488,19 +582,19 @@ https://s3.eu-central-1.amazonaws.com/purple-trading-emailing.master/LFI/Ebooks/
 
 ## Watchlist ##
 
-http://20.67.101.148/watchlist/
+https://pkralik.github.io/
 
-http://20.67.101.148/watchlist/watchlist.html
+http://ec2-3-8-173-118.eu-west-2.compute.amazonaws.com/watchlist/
 
-http://20.67.101.148/watchlist/tickers.html
+http://ec2-3-8-173-118.eu-west-2.compute.amazonaws.com/watchlist/finviz.html
 
-http://20.67.101.148/watchlist/timalerts.html
+http://ec2-3-8-173-118.eu-west-2.compute.amazonaws.com/watchlist/yahoo.html
 
-http://20.67.101.148/watchlist/watchlist-25-02-17.html
+http://ec2-3-8-173-118.eu-west-2.compute.amazonaws.com/watchlist/investing.html
 
-http://20.67.101.148/watchlist/tickers-25-02-17.html
+http://ec2-3-8-173-118.eu-west-2.compute.amazonaws.com/watchlist/watchlist.html
 
-http://20.67.101.148/watchlist/timalerts-25-02-17.html
+http://ec2-3-8-173-118.eu-west-2.compute.amazonaws.com/watchlist/watchlist-25-10-15.html
 
 http://stockcharts.com/h-sc/ui?s=SPY&p=D&b=5&g=0&id=p76324137981
 
@@ -541,6 +635,10 @@ https://stockcharts.com/h-sc/ui?s=ABAT&p=D&b=5&g=0&id=p76324137981
 https://stockcharts.com/h-sc/ui?s=IPDN&p=D&b=5&g=0&id=p76324137981
 
 https://stockcharts.com/h-sc/ui?s=LEE&p=D&b=5&g=0&id=p76324137981
+
+## AI Trading ##
+
+https://medium.datadriveninvestor.com/my-chatgpt-generated-trading-strategies-are-demolishing-the-market-d855454df306
 
 ## AI ##
 
@@ -586,6 +684,12 @@ https://www.perplexity.ai/help-center/en/articles/11144811-perplexity-labs
 
 https://www.zive.cz/clanky/aivyhledavac-perplexity-pro-s-mnoha-placenymi-modely-muzete-mit-u-t-mobilu-zadarmonavod-jak-na-to/sc-3-a-232451/default.aspx
 
+https://www.mongodb.com/resources/products/fundamentals/webinar-intro-to-ai-agents-and-agentic-systems
+
+https://adoption.microsoft.com/en-us/ai-agents/
+
+https://www.microsoft.com/en-us/microsoft-copilot/copilot-101/build-ai-agent
+
 https://www.deeplearning.ai/short-courses/serverless-agentic-workflows-with-amazon-bedrock/
 
 https://medium.com/google-cloud/decoding-google-ai-studio-your-in-depth-guide-to-mastering-generative-ai-settings-af9a15bec7a8
@@ -608,27 +712,39 @@ https://cloudonair.withgoogle.com/
 
 https://cloudonair.withgoogle.com/#upcoming_events
 
-https://cloudonair.withgoogle.com/events/boost-your-creativity-and-productivity-with-the-gemini
-
-https://cloudonair.withgoogle.com/events/techbyte-gaining-buy-in-a-guide-to-successful-ai-integration-in-development
-
-https://cloudonair.withgoogle.com/events/techbyte-unlock-value-with-ai-agents
-
-https://cloudonair.withgoogle.com/events/weeklies-unlock-ai-and-cloud-mar-od
+https://cloudonair.withgoogle.com/weeklies
 
 https://cloudonair.withgoogle.com/events/weeklies-build-ai-agents-with-genkit-may
 
-https://cloudonair.withgoogle.com/events/summit-emea-security-25
+https://cloudonair.withgoogle.com/events/weeklies-unlock-ai-and-cloud-mar-od
+
+https://cloudonair.withgoogle.com/events/weeklies-monetise-data-with-embedded-analytics-may
 
 https://cloudonair.withgoogle.com/events/startup-school-ai-q1-2025
 
 https://cloudonair.withgoogle.com/events/startup-school-ai-q2-2025
 
+https://cloudonair.withgoogle.com/events/startup-school-ai-q4-2025
+
 https://cloudonair.withgoogle.com/events/startup-school-ai-q2
 
 https://cloudonair.withgoogle.com/events/startup-school-ai-q4
 
+https://cloudonair.withgoogle.com/techbytes
+
+https://cloudonair.withgoogle.com/events/techbyte-unlock-value-with-ai-agents
+
+https://cloudonair.withgoogle.com/events/techbyte-gaining-buy-in-a-guide-to-successful-ai-integration-in-development
+
+https://cloudonair.withgoogle.com/events/boost-your-creativity-and-productivity-with-the-gemini
+
+https://cloudonair.withgoogle.com/events/startups-technical-guide-ai-agents
+
+https://cloudonair.withgoogle.com/events/genmedia-the-new-ai-creative-era
+
 https://cloudonair.withgoogle.com/events/leap-forward-gen-ai
+
+https://cloudonair.withgoogle.com/events/summit-emea-security-25
 
 https://cloudonair.withgoogle.com/events/gws-prompting-gemini-duet-ai/watch?talk=t1-s1
 
@@ -647,6 +763,32 @@ https://cloudonair.withgoogle.com/events/gen-ai-observability-for-python-develop
 https://cloudonair.withgoogle.com/events/key-prompt-engineering-techniques-with-anthropics-claude-on-vertex-ai
 
 https://www.youtube.com/watch?v=PAm8Kj8uqVg
+
+https://ai.google.dev/gemini-api/docs/video
+
+https://developers.googleblog.com/en/veo-3-fast-image-to-video-capabilities-now-available-gemini-api/
+
+https://developers.googleblog.com/en/new-ai-capabilities-for-popular-frameworks-in-firebase-studio/
+
+https://services.google.com/fh/files/misc/gws_gemini_advanced_one_ebook.pdf
+
+https://services.google.com/fh/files/misc/gemini_for_workspace_prompt_guide_october_2024_digital_final.pdf
+
+https://aistudio.google.com/
+
+https://aistudio.google.com/prompts/new_video
+
+https://aistudio.google.com/apps
+
+https://aistudio.google.com/live
+
+https://aistudio.google.com/apps/bundled/gemini_95
+
+https://aistudio.google.com/app/apikey
+
+https://firebase.studio/
+
+https://firebase.google.com/docs/studio/get-started-ai
 
 https://firebase.google.com/codelabs/ai-genkit-rag#8
 
@@ -732,6 +874,8 @@ https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/function-c
 
 https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/tuning
 
+https://github.com/DataDog/dpn/blob/master/partner-workshops/gcp-ai-startup-school.md
+
 https://www.youtube.com/@googlecloudtech?sttick=0
 
 ## SRE ##
@@ -755,6 +899,8 @@ https://info.microsoft.com/rs/157-GQE-382/images/EN-CNTNT-eBook-DesigningDistrib
 ## Prompts ##
 
 https://drive.google.com/file/d/18pqKVi9XyVOQlhGmglnNz3Y4iTyHcn0d/view
+
+https://docs.google.com/document/d/1hkxe9_O_I-dGS1bqxyOpf10nkmAT_ezwYhZcFJC0kZA/edit?tab=t.0#heading=h.4rc8j4az44st
 
 https://www.linkedin.com/posts/how-to-ai-guide_how-to-create-a-polaroid-hug-photo-with-gemini-ugcPost-7376239362893709312-x12M/?utm_source=share&utm_medium=member_android&rcm=ACoAAAIQyZYB5hHdQAk--iI1TdcwTKw6gpvtcVc
 
