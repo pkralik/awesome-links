@@ -586,17 +586,19 @@ https://pkralik.github.io/
 
 http://104.198.38.252/watchlist/
 
-http://ec2-3-8-173-118.eu-west-2.compute.amazonaws.com/watchlist/
+http://104.198.38.252/watchlist/tickers.html
 
-http://ec2-3-8-173-118.eu-west-2.compute.amazonaws.com/watchlist/finviz.html
+http://104.198.38.252/watchlist/watchlist.html
 
-http://ec2-3-8-173-118.eu-west-2.compute.amazonaws.com/watchlist/yahoo.html
+http://104.198.38.252/watchlist/timalerts.html
 
-http://ec2-3-8-173-118.eu-west-2.compute.amazonaws.com/watchlist/investing.html
+http://104.198.38.252/watchlist/finviz.html
 
-http://ec2-3-8-173-118.eu-west-2.compute.amazonaws.com/watchlist/watchlist.html
+http://104.198.38.252/watchlist/yahoo.html
 
-http://ec2-3-8-173-118.eu-west-2.compute.amazonaws.com/watchlist/watchlist-25-10-15.html
+http://104.198.38.252/watchlist/investing.html
+
+http://104.198.38.252/watchlist/watchlist-25-10-15.html
 
 http://stockcharts.com/h-sc/ui?s=SPY&p=D&b=5&g=0&id=p76324137981
 
